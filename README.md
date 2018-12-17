@@ -1,6 +1,6 @@
 ## react-todolist
 
-### redux版
+### 普通版
 
 ### redux-thunk版
 
