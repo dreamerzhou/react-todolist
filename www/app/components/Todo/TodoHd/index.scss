@@ -1,0 +1,13 @@
+.todo-hd {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  input {
+    width: 75%;
+    padding: 3px;
+  }
+  button {
+    width: 25%;
+    padding: 3px;
+  }
+}

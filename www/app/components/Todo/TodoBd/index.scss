@@ -1,0 +1,17 @@
+.todo-bd {
+  padding: 20px 0;
+  ul {
+    li {
+      display: flex;
+      justify-content: space-between;
+      span {
+        button {
+          padding: 3px;
+        }
+        input {
+          padding: 3px;
+        }
+      }
+    }
+  }
+}
